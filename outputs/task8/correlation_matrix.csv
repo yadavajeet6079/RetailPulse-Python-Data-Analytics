@@ -1,0 +1,6 @@
+,Units_Sold,Unit_Price_INR,Discount_Pct,Sales_INR,Profit_INR
+Units_Sold,1.0,0.09,-0.02,0.6,0.57
+Unit_Price_INR,0.09,1.0,0.06,0.75,0.71
+Discount_Pct,-0.02,0.06,1.0,-0.01,-0.05
+Sales_INR,0.6,0.75,-0.01,1.0,0.91
+Profit_INR,0.57,0.71,-0.05,0.91,1.0

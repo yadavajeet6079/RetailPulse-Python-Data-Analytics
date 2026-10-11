@@ -1,0 +1,7 @@
+KEY BUSINESS INSIGHTS
+==================================================
+
+1. The highest-sales category is Electronics, with total sales of INR 271,848.38.
+2. The highest-profit category is Electronics, with total profit of INR 73,677.24.
+3. The highest-sales region is East, with total sales of INR 212,556.78.
+4. The lowest-sales region is West, with total sales of INR 105,040.37.
